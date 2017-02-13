@@ -1,0 +1,287 @@
+.header {
+  
+  height: 45px;
+  display: flex;
+  justify-content: space-between; 
+  background-color: black;
+   }
+
+
+   .logo
+   {
+       padding-top: 10px;
+       margin-left: 100px;
+   }
+
+   .main_my_app
+   {
+    color:grey;
+    width:40px;
+    width: 100px;
+    display: flex;
+  justify-content: space-between; 
+    }
+
+
+    .dd
+{
+  display: flex;
+  justify-content: space-between; 
+  color: grey;
+  margin-top: 15px;
+}
+
+   .my_app
+   {
+    display: flex;
+    justify-content: space-between;
+   
+    
+   }
+
+   
+   .sub
+   {
+    display: flex;
+    justify-content: space-around; 
+
+   }
+
+   .main_account
+   {
+      margin-right:20px;
+      width: 250px;
+      height: 45px;
+      margin-right: 100px;
+
+
+
+   }
+
+   .sub_account
+   {
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+ 
+  }
+
+.empty
+{
+  height: 850px;
+  display: flex;
+  justify-content: space-between; 
+}
+
+.footer {
+ 
+  height: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between; 
+  border-bottom:solid grey;
+  border-width: thin;
+  margin-left: 70px;
+  margin-right: 90px;
+
+}
+
+.logo2
+{
+  margin-left: 40px;
+  padding-top: 15px;
+}
+
+
+.power
+{
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: small;
+  color:grey;
+}
+
+.main_footer
+{
+      width: 600px;
+      margin-right: 100px;
+      display: flex;
+}
+
+.footer_sub
+{
+  display: flex;
+  justify-content: space-between; 
+  font-size: small;
+  padding-top: 5px;
+  padding-left: 30px;
+  color: grey;
+}
+
+
+
+.sub_empty1
+ {
+    display: flex;
+    justify-content: space-around; 
+    height: 500px;
+    width: 500px;
+    padding: 35px;
+    margin-left:100px;
+    border: 1px solid black ;
+}
+
+
+
+
+
+fieldset {
+    border: thin solid  #black; 
+    border-radius: 4px;
+    padding: 20px;
+    padding-left: 40px;
+    background: #fbfbfb;
+    margin-left: 180px;
+    margin-top: 40px;
+    height: 700px;
+   
+}
+
+.text-center
+{
+ display: flex;
+  justify-content: space-between; 
+  width: 450px; 
+  padding-left: 30px;
+}
+
+.form-group
+{
+    font-size: 25px;
+}
+
+legend {
+   color: black;
+   font-size: 40px;
+   
+}
+.form-control {
+    width: 95%;
+}
+
+
+
+.form-group1
+{
+  margin-top: 20px;
+}
+.reset
+{
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+}
+
+.register
+{
+  background-color: green;
+  margin-left: 100px;
+  width: 100px;
+  height: 40px;
+}
+
+#submit
+{
+  background-color: green;
+  margin-left: 100px;
+  width: 100px;
+  height: 40px;
+}
+}
+
+.main
+{
+
+  height:700px;
+  width: 600px;
+  display: flex;
+  justify-content: space-between; 
+  margin-right: 200px;
+
+}
+
+.text-center1
+{
+  width: 300px;
+  display: flex;
+  justify-content: space-between; 
+}
+
+
+
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: black;
+
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    display: flex;
+  justify-content: space-between; 
+}
+
+
+.dropdown-content {
+
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color: black}
+
+
+.show {display:block;}
+
+
+
+
+li1
+{
+
+    width: 300px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: grey;
+    box-sizing: border-box;
+    padding-right: 200px;
+     display: flex;
+  justify-content: column;
+}
+
+
