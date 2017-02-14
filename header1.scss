@@ -1,0 +1,92 @@
+.header
+{
+    border-bottom:solid grey;
+    border-width: thin;
+        
+  
+
+.parent
+{
+	height :150px;
+	display:flex;
+  
+
+
+  .logo
+{
+  
+  margin-left: 150px;
+  	
+
+}
+
+
+.mp{
+    
+
+   margin-left: 70px;
+   /*height:85px;*/
+   margin-top: 65px;
+   font-size:25px;
+  color:black;
+}
+
+
+
+.subparent
+{
+
+	display: flex;
+	width:100%;
+
+
+
+.common 
+{
+
+	height:100px;
+	width:100px;
+
+
+.empty
+{
+	width:65%;
+}
+
+
+
+
+.links
+{
+   display: flex;
+   justify-content:flex-end;
+   flex-direction:row;
+    margin-top: 65px;
+    width: 300px;
+    height:75px;
+    padding-right: 10px;
+
+}
+}
+}
+}
+
+
+.ftapp{
+margin-left: 155px;
+
+
+
+
+.links,.links2{
+
+    font-family: "Arial";
+
+}
+    .forms
+{
+    margin-left:800px;
+    /*text-decoration: none;*/
+}
+}
+}
