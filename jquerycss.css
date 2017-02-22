@@ -136,17 +136,6 @@
 
 
 
-fieldset {
-    border: thin solid  #black; 
-    border-radius: 4px;
-    padding: 20px;
-    padding-left: 40px;
-    background: #fbfbfb;
-    margin-left: 180px;
-    margin-top: 40px;
-    height: 700px;
-   
-}
 
 .text-center
 {
@@ -161,14 +150,8 @@ fieldset {
     font-size: 25px;
 }
 
-legend {
-   color: black;
-   font-size: 40px;
-   
-}
-.form-control {
-    width: 95%;
-}
+
+
 
 
 
@@ -211,12 +194,7 @@ legend {
 
 }
 
-.text-center1
-{
-  width: 300px;
-  display: flex;
-  justify-content: space-between; 
-}
+
 
 
 
@@ -283,5 +261,41 @@ li1
      display: flex;
   justify-content: column;
 }
+
+.panel panel-primary
+{
+  margin-left: 20px;
+  width: 200px;
+}
+
+  .panel-heading
+  {
+   margin-left: 200px;
+   margin-top: 50px;
+   font-size: 30px; 
+
+  }
+ .panel-body
+  {
+    background-color: #EDEDED;
+    margin-left: 100px;
+        width: 500px;
+  }
+
+  .main
+  {
+margin-left: 100px;  }
+
+
+
+
+.da
+{
+      margin-right: 300px;
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+
 
 

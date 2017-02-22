@@ -4,17 +4,33 @@
   display: flex;
   justify-content: space-between; 
 
-  .sub
-   {
-    display: flex;
-    justify-content: space-around; 
+  .panel panel-primary
+{
+  margin-left: 20px;
+  width: 200px;
 
+
+  .panel-heading
+  {
+   margin-left: 200px;
+   margin-top: 50px;
+   font-size: 30px; 
+
+}
   
+ .panel-body
+  {
+    background-color: #EDEDED;
+    margin-left: 100px;
+        width: 500px;
+  }
+
+  }
 
 
 
 
-    .form-group1
+.form-group1
         {
   margin-top: 20px;
 
@@ -23,7 +39,7 @@
 
 .reset
 {
-    background-color: blue;
+    background-color: #0000FF;
     width: 100px;
     height: 40px;
 
@@ -34,7 +50,7 @@
 
 #submit
 {
-  background-color: green;
+  background-color: #008000;
   margin-left: 100px;
   width: 100px;
   height: 40px;
@@ -44,24 +60,11 @@
 
 
 
-.main
+.da
 {
-
-  height:700px;
-  width: 600px;
-  display: flex;
-  justify-content: space-between; 
-  margin-right: 200px;
-
-
-  .text-center1
-{
-  width: 300px;
-  display: flex;
-  justify-content: space-between; 
-}
-}
-
+      margin-right: 300px;
+    font-size: 30px;
+    padding-top: 20px;
 
 }
 }
