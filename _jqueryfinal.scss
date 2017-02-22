@@ -1,0 +1,44 @@
+@import "_headerjquery.scss";
+@import "_footerjquery.scss";
+@import "_form.scss";
+
+
+
+.dropbtn {
+    background-color: #000;
+    color: #fff;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+
+    .dropbtn:hover, .dropbtn:focus {
+    background-color: #000;
+
+}
+}
+
+
+
+li1
+{
+
+    width: 300px;
+    height: 50px;
+    border: 1px solid #000;
+    background-color: #808080;
+    box-sizing: border-box;
+    padding-right: 200px;
+     display: flex;
+  justify-content: column;
+}
+
+
+
+  .form-group
+{
+    font-size: 25px;
+
+
+    
+}

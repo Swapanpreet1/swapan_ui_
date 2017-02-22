@@ -1,0 +1,133 @@
+.header {
+  height: 45px;
+  background-color: #355b79;
+  display: flex;
+  justify-content: space-between; }
+  .header .sub {
+    display: flex;
+    justify-content: space-around; }
+    .header .sub .mainnumber {
+      margin-left: 10px;
+      height: 35px; }
+      .header .sub .mainnumber .number {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 2px;
+        margin-left: 50px;
+        color: white;
+        font-size: small; }
+  .header .main_account {
+    margin-right: 20px;
+    width: 350px;
+    height: 45px;
+    margin-right: 100px; }
+    .header .main_account .sub_account {
+      color: white;
+      padding-top: 2px;
+      display: flex;
+      justify-content: space-between;
+      list-style-type: none;
+      font-size: small; }
+
+.header2 {
+  height: 75px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid #D8D8D8;
+  border-width: thin; }
+  .header2 .sub2 {
+    display: flex;
+    justify-content: space-between; }
+    .header2 .sub2 .main_tele {
+      font-size: 30px;
+      padding-left: 140px;
+      width: 200px;
+      font-family: "sans-serif";
+      padding-top: 20px;
+      color: #003399; }
+    .header2 .sub2 .mp {
+      padding-top: 25px;
+      color: #003399;
+      width: 100px;
+      margin-left: 20px; }
+  .header2 .sub2 {
+    display: flex;
+    justify-content: space-between; }
+    .header2 .sub2 .main_login {
+      width: 60px;
+      padding-top: 20px;
+      background-color: #D8D8D8;
+      color: #003399; }
+  .header2 .sub2 {
+    display: flex;
+    justify-content: space-between; }
+    .header2 .sub2 .main_signup {
+      width: 50px;
+      padding-top: 20px;
+      margin-right: 95px;
+      background-color: #D8D8D8;
+      color: #003399; }
+
+.header3 {
+  height: 45px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid #D8D8D8;
+  border-width: thin; }
+  .header3 .main_f_app {
+    width: 400px;
+    margin-left: 90px; }
+    .header3 .main_f_app .f_app {
+      list-style-type: none;
+      color: grey;
+      display: flex;
+      justify-content: space-between;
+      text-decoration: none;
+      margin-right: 80px; }
+      .header3 .main_f_app .f_app .f_app2 {
+        font-size: small;
+        padding-right: 25px; }
+  .header3 .search_bar {
+    width: 450px;
+    padding-top: 5px; }
+
+a:-webkit-any-link {
+  text-decoration: none;
+  color: #003399;
+  padding-right: 20px; }
+
+.empty {
+  height: 400px; }
+
+.footer {
+  height: 300px;
+  padding-left: 60px;
+  background-color: #355b79;
+  display: flex;
+  justify-content: space-between; }
+  .footer .footersub {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: small; }
+    .footer .footersub .ul_common {
+      list-style-type: none; }
+      .footer .footersub .ul_common .li {
+        padding: 6px 0 6px 0;
+        font-size: 80%; }
+    .footer .footersub .tele2 {
+      font-size: 30px;
+      margin-top: 50px;
+      margin-left: 100px;
+      display: flex;
+      justify-content: space-between; }
+    .footer .footersub .fb {
+      margin-top: 60px;
+      margin-left: 40px; }
+    .footer .footersub .tt {
+      margin-top: 60px;
+      padding-left: 5px; }
+
+/*# sourceMappingURL=tele1.css.map */
